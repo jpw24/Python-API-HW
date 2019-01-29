@@ -1,0 +1,9 @@
+Observable Trends weatherpy:
+
+1. As latitudes go from negative to positive, the maximum temperature tends to go down.
+
+
+2. Cloudiness is either clustered at the top of the % breakdown, or the bottom. There are not that many cities in the middle.
+
+
+3. Most cities have really high humidity, with a cluster around the 100% limit.
